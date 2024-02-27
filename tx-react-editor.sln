@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34525.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tx-react-editor.Server", "tx-react-editor.Server\tx-react-editor.Server.csproj", "{2B859A8E-153D-4CAF-96C4-A56981047E16}"
+EndProject
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "tx-react-editor.client", "tx-react-editor.client\tx-react-editor.client.esproj", "{82355333-2CB4-4E19-9292-5C78E53BDE52}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2B859A8E-153D-4CAF-96C4-A56981047E16}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B859A8E-153D-4CAF-96C4-A56981047E16}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B859A8E-153D-4CAF-96C4-A56981047E16}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B859A8E-153D-4CAF-96C4-A56981047E16}.Release|Any CPU.Build.0 = Release|Any CPU
+		{82355333-2CB4-4E19-9292-5C78E53BDE52}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82355333-2CB4-4E19-9292-5C78E53BDE52}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82355333-2CB4-4E19-9292-5C78E53BDE52}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{82355333-2CB4-4E19-9292-5C78E53BDE52}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82355333-2CB4-4E19-9292-5C78E53BDE52}.Release|Any CPU.Build.0 = Release|Any CPU
+		{82355333-2CB4-4E19-9292-5C78E53BDE52}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E3C7538A-69B2-4BDD-9D2D-BD509A176454}
+	EndGlobalSection
+EndGlobal
